@@ -1,0 +1,21 @@
+{
+  "name": "forms",
+  "description": "Make a form that asks users for their e-mails and some personal information.\n\nWe have:\n\nTwo text inputs asking users for an identical e-mail.\n\nRadio buttons asking users to rate cats on a scale from 1-5.\n\nA select input asking users if they are a cat, with three options: Yes, no, and maybe.\n\nA button to submit the form.\nDescriptive step-by-step instructions depending on a user's progress through the form.\n\nAfter submitting, a recap of every choice the user made. This recap updates if the user changes an item on their form.",
+  "version": "0.0.0",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
